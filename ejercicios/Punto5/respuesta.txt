@@ -1,0 +1,4 @@
+¿La gráfica sigue una tendencia similar a la mostrada en la figura 29.6 
+del texto guía (la cual se muestra a continuación)?
+    Para este contador aproximado mejorado, la grafica si muestra una tendencia
+    o similitud a la grafica mostrado en el libro guía. 

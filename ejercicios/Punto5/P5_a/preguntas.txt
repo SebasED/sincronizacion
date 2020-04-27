@@ -1,0 +1,11 @@
+¿Los valores que usted obtuvo siguen una tendencia como la que se muestra 
+en el texto guía (mostrada anteriormente)?
+    La grafica obtenida del punto_3 con el contador preciso si tiene una
+    tendencia similar a la grafica del texto guía, sin embargo, la grafica
+    del punto_4 con el contador aproximado no muestra esa tendencia.
+
+¿Cuántas CPUs hay disponibles en el sistema que usted está utilizando?
+    4 CPUs
+
+¿Este número afecta de alguna manera sus mediciones?
+    Si, la cantidad de CPUs podría mejorar el rendimiento del programa.

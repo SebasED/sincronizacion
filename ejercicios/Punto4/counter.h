@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <pthread.h>
 
-#define NUMCPUS 8
+#define NUMCPUS 4
 
 typedef struct __counter_t {
     int global; // global count
